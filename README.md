@@ -124,14 +124,6 @@ I enjoy transforming business requirements into clean, maintainable software sol
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sourabh-devadkar&theme=onedark&row=1&column=6"/>
-</p>
-
----
-
 # 💡 Areas of Expertise
 
 ✔ ASP.NET Core Web APIs
@@ -158,16 +150,9 @@ I enjoy transforming business requirements into clean, maintainable software sol
 
 # 🚀 Featured Projects
 
-> Replace these with links after creating your repositories.
-
 | Project | Description |
 |---------|-------------|
-| 🚀 Employee Management System | ASP.NET Core + Angular Full Stack Application |
-| 🔐 Authentication API | JWT Authentication & Role-Based Authorization |
-| 📦 Clean Architecture API | Enterprise-grade API with Repository Pattern |
-| 🌐 Angular Admin Dashboard | Responsive Dashboard using Angular |
-| 🖥 Desktop Utility | WPF / WinForms Desktop Application |
-| 📚 LeetCode Solutions | Interview-focused DSA Solutions |
+| <a href="https://github.com/sourabh-devadkar/LeetCode-Solutions">📚 LeetCode Solutions</a> | Interview-focused DSA Solutions |
 
 ---
 
@@ -221,4 +206,3 @@ I'm interested in contributing to projects related to:
 If you find my projects interesting, feel free to explore my repositories and connect with me.
 
 </p>
-```
